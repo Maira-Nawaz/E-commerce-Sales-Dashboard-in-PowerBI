@@ -12,7 +12,7 @@ This project aims to analyze **e-commerce sales performance** using **Excel's ad
 - **Standard Class shipping dominates with 60.51% of total sales**  
 
 ## **Tools Used**  
- **Microsoft Excel** – Pivot Tables, Charts, and Conditional Formatting  
+ **Microsoft PowerBI** – Pivot Tables, Charts, and Conditional Formatting  
  **Data Visualization Techniques** – KPI tracking, bar charts, and pie charts  
 
 ## **Why It’s Useful?**  
